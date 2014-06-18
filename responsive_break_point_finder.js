@@ -1,8 +1,3 @@
-// Notes: http://www.quirksmode.org/mobile/viewports.html
-// Viewport.js - https://github.com/bjankord/viewportwidth.js/blob/master/README.md
-// http://www.brettjankord.com/projects/viewportwidth/demo/
-
-
 
 $(document).ready(function(){
 	
