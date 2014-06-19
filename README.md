@@ -7,7 +7,7 @@ Displays browser dimensions to assist in finding break points for CSS media quer
 To use this script file: 
 
 1. simply link to both the jQuery library and the responsive_break_point_finder.js
-2. The browser width and height will be displayed two sets of hieght & width on the right side of the broser window.
+2. The browser width and height will be displayed two sets of height & width on the right side of the browser window.
 The first set uses .innerWidth and the second set uses .width. 
 
 In most cases, the innerWidth (displayed first) is the width you'll want to consider when testing for media query 
